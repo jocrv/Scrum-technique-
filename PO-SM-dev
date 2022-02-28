@@ -1,0 +1,39 @@
+goals and responsabilties of product owner, analisy and define priorities, PO's for transform. Product owner: represent the profissional and visualixxe the value, he valide the // he can cancel some sprint, replanning some sprint, if anything be possible, // scrum: product owner(po), scrum master(sm), team of development(dev), no hierachy, scrum master make the agile coulture, the team have to be more// PO represent the business area, he is not a commit, define functionalities of software (product backlog), priorixxe the function besides the value of business, guaranteer the developmet to iten of backlog of level necesary. present and all the time to the team, or don't delay, all doubt is valide, // refining and planning: product backlog(select product increment), sprint backlog 
+On planning no one have to be on doubt, read all the story for the team, // sprint backlog: user login, ssl enable, reset lost password, account lockout after three attempts. 
+release planning: release a new version of product of this software, any time is the product will be create or change, the dev have to decide if it will be distributed or change // much more sprint more complex the realease will be
+2 types: release planning for multiple squads(after the sprint all the release divide will be given by differents teams, to up to the product, the PO doesn't participated of this) or release planning of the project (PO have some big demands, the PO have to be senior, the real demand of the story, and have to broke all the story, example: doenst possible the new authenticator, the demand have clear, but the all sprint are nt numerable, for test with the client to caption all the development// the project, PO is not the manager project of scrum/ define the major given of the client, planning the demand for the client, with the return of the client to the sotyr have to be more value, or if the given will be , depends need to finish the finish one or two refresh of client, so be more consiste of the given)/
+which characteristic is better for PO: udertsnd the demmand and extract the more value of the demand. 
+which is the goal of the PO of the team: helps the team to understand the goal and helps the team to finish the sprint. 
+
+define the escopo and the priority: define is the best part because of the goals, what is the goals, before the finish, more posibilitiesm , disponible more tools to locomoted, given the mood to locomoted, given the goals, and validated the way make sense, at the second sprint more instability, ... the last sprint is the product, thats the resume the product given is each more value and given more necessity to the person who using the product, // because of that is to validated every given, to attendance the client.
+product backlog: themer example a website/ the creation fot he cart page. (epic) user can add the necessary items in his cart, user can remove the unnecessaru items from the cart (user stories) add the page and the link "cart" on the main website page, add the button "add to the cart" after every item. add the bottom "remove from the cart after every item, add the button "open my cart" on every website : tasks 
+epics: incremente without more detais helps to direct the ways which have to follow up. history: detais epics one normal epic are divide in each sotires where this will describe what is happen the the rules of business. 
+story: screen: link or image from the devs are doing. 
+KPI: GOALS 
+  tags: mesure the KPI 
+Risks and rewards: positives(a lot of teams works of anothers teams, more gains development on the system) or negatives(itens of the date, cousts, and the part of project wich will be doing be unavailable for some project)  
+flux to the client cancel something: when it have to cancel in call center, 
+which is the methods more efficent to the project: understand the gain and after define the escopo of project. 
+product backlog: epic and story 
+importance to mapping positive risks: prioritixxe other itens on backlog, 
+
+Digital transform: change the transfor is given is more about person than tech, how we can less process and potencilixxe result, change the mindset 
+
+ PO, Stakeholders, 
+ story epic and task: when all epic are conclude,// depend of the task from others stories, before do the construct to mapping inter and extern parts. story is a cgroup of task and epic is a group of sotires/ you can broke a task is epic //
+ charasterisc of the story: a task describe a level of business. 
+ whats is a task:  a group of task the team of devs have to given of storye. 
+ acceptable criteria: is a list of creiteris have to need the user story have to attedance the user and acceptable of product owner,
+ planning poker: estimate the sixxe of agille team. each member of dev have the fibonacci sequence, and the read and all the team say the sixxe of the activities, the time, the complexicyt and more manual of devs, this questions estimate the sixxe of task. difficult more 13, or some task is 20 points need to broke the task. 
+ product backlog: select product increment. sprint backlog: user login, the goals have to be straight. 
+ whats is a accept criteria: is a list of criterias to the story attendance the criteria of client.
+ planning poker: measure the the force and complecity of task and stories. 
+
+ client and stakeholders: stakeholder: legitime the actions of organixxer and have some taks direct or indrect of manager the result of the same organixxation. stakeholder is the client internal of something. could be the analist or amanger, and the PO have to make conversation of this. some people open the project have the politic gain, example substitue the excel for system. 
+
+ daily:   the dev team only 
+ obrigat retro: the team of dev, SM 
+ sprint review meeting: PO, SM, all people, stakeholders, managers, see what have to given, validate the chagne of flux, define the and aggregate the value of business. 
+ refine: happens before the planning, so is the final of the sprint before. 
+ the goal of review: present the review for all how are interested. 
+ maturity of team: scrum: transparence, inspection, adaptable. compromise, courage, open, focus, respect. 
